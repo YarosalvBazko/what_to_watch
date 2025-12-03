@@ -22,16 +22,16 @@ what_to_watch/
 │   ├── templates/              # HTML-шаблоны
 │   ├── cli_commands.py         # CLI-команды
 │   ├── error_handlers.py       # Обработчики ошибок
-│   ├── forms.py               # Формы WTForms
-│   ├── __init__.py            # Инициализация приложения
-│   ├── models.py              # Модели SQLAlchemy
-│   └── views.py               # View-функции (маршруты)
-├── .env                       # Переменные окружения
-├── .gitignore               # Список игнорируемых файлов
-├── opinions.csv             # Пример данных для загрузки
-├── README.md               # Документация
-├── requirements.txt          # Зависимости
-└── settings.py              # Настройки приложения
+│   ├── forms.py                # Формы WTForms
+│   ├── __init__.py             # Инициализация приложения
+│   ├── models.py               # Модели SQLAlchemy
+│   └── views.py                # View-функции (маршруты)
+├── .env                        # Переменные окружения
+├── .gitignore                  # Список игнорируемых файлов
+├── opinions.csv                # Пример данных для загрузки
+├── README.md                   # Документация
+├── requirements.txt            # Зависимости
+└── settings.py                 # Настройки приложения
 ```
 
 ## Требования
