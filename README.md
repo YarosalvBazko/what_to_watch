@@ -28,7 +28,6 @@ what_to_watch/
 │   └── views.py               # View-функции (маршруты)
 ├── .env                       # Переменные окружения
 ├── .gitignore               # Список игнорируемых файлов
-├── opinions_app.py          # Основной файл приложения
 ├── opinions.csv             # Пример данных для загрузки
 ├── README.md               # Документация
 ├── requirements.txt          # Зависимости
